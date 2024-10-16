@@ -10,7 +10,7 @@ repository contains json parsing functions and any additional remote or local da
 added to contain all data access functionality in repository.
 
 ## ViewModel -
-ViewModel utilizes LiveData to provision list of Beneficiary class data and to update UI with data
+ViewModel utilizes LiveData to provision list of Beneficiary class data and to update UI with data via observer
 
 ## Improvement suggestions-
 Use of XML,3rd party libraries has been restrained to meet assessment requirements, but use of
