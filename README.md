@@ -19,6 +19,6 @@ component for organization and implementation of navigation, argument passing an
 as use of Retrofit for building a network layer for remote and local sources while utilizing coroutine benefits
 for asynchronous network calls, as well as unit testing of view model functions are suggestions 
 which could improve the app. Optimally jetpack compose would offer benefit in performance optimization
-and reduction in required boiler plate code.
+and reduction in required boiler plate code. Use of dependency injection for provision of repository to view model.
 
 additionally, organizing project files within project structure using packages would be an improvement.
